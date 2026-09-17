@@ -206,7 +206,3 @@ These projects are primarily intended for learning and practicing web scraping a
 When scraping websites, always respect the target website's terms of service, robots policies where applicable, rate limits, and applicable laws.
 
 ---
-
-**[Project 1 →](1/README.md)**
-
-**[Project 2 →](2/README.md)**
