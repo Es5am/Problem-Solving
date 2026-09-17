@@ -207,10 +207,6 @@ When scraping websites, always respect the target website's terms of service, ro
 
 ---
 
-## 🔗 Navigation
-
-**[← Back to Advanced Applications](../README.md)**
-
 **[Project 1 →](1/README.md)**
 
 **[Project 2 →](2/README.md)**
