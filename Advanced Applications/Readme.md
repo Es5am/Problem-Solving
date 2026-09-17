@@ -432,8 +432,6 @@ Integrated Applications
 
 **[← Back to Main Repository](../README.md)**
 
-**[← Problem Solving](../Problem%20Solving/README.md)**
-
 ---
 
 # 📈 Continuous Development
