@@ -156,9 +156,6 @@ The modules progressively cover topics such as:
 * SQLite databases
 * Integrated programming challenges
 
-👉 See the dedicated documentation:
-
-**[Problem Solving README](Problem%20Solving/README.md)**
 
 ---
 
@@ -229,9 +226,6 @@ Topics include:
 
 ---
 
-👉 See the dedicated documentation:
-
-**[Advanced Applications README](Advanced%20Applications/README.md)**
 
 ---
 
@@ -413,14 +407,6 @@ This repository is primarily a learning and development portfolio.
 Some projects are educational exercises, while others are practical implementations designed to explore specific technologies or engineering concepts.
 
 The structure and codebase will continue to evolve as new concepts and projects are added.
-
----
-
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
-See the [`LICENSE`](LICENSE) file for more information.
 
 ---
 
