@@ -262,9 +262,3 @@ This project is primarily intended for learning and practicing Flask web develop
 The architecture can be extended as the application grows.
 
 ---
-
-# 🔗 Navigation
-
-**[← Back to Advanced Applications](../README.md)**
-
-**[← Back to Repository Root](../../README.md)**
