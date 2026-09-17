@@ -1,0 +1,1 @@
+To run these files, you need to install Selenium via the terminal with This Command :  pip install selenium

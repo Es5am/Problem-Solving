@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #EEE;
+    font-family: Arial, Tahoma;
+}
+
+.head_title,
+.description {
+    text-align: center;
+}
+
+.head_title {
+    font-size: 40px;
+    margin: 20px 0 0;
+}
+
+.description {
+    font-size: 22px;
+    margin: 5px 0 40px;
+}

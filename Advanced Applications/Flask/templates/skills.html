@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block body %}
+<h1 class="head_title">{{ head_title }}</h1>
+<p class="description">{{ description }}</p>
+{% for skill in myskill %}
+<div class="container-box">
+
+    <div class="skill-name">{{ skill[0]}} </div>
+
+    <div class="skill-progress">
+        <span data-label="{{skill[1]}}%" data-width="{{skill[1]}}%"></span>
+    </div>
+
+</div>
+{% endfor %}
+{% endblock %}

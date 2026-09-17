@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/mas.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/var.css') }}">
+
+    {% if cssfile %}
+    <link rel="stylesheet" href="{{ url_for('static', filename = 'css/' + cssfile + '.css' ) }}">
+    {% endif %}
+
+
+    <title>{{ pagetitle }}</title>
+
+</head>
+
+<body>
+    <header>
+        <h1>{{ title }}</h1>
+    </header>
+
+    <main>
+        {% block body %}
+        {% endblock %}
+        <script src="{{ url_for('static', filename='js/jquery-3.4.1.min.js') }}"></script>
+        <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    </main>
+</body>
+
+</html>
